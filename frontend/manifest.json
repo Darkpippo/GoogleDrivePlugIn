@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Google Drive Plugin",
+  "description": "Google drive plugin",
+  "version": "1.0",
+  "icons": {
+    "16": "./images/logo_image.png",
+    "48": "./images/logo_image.png",
+    "128": "./images/logo_image.png"
+  },
+  "action": {
+    "default_popup": "./App/index.html",
+    "default_icon": {
+      "16": "./images/logo_image.png",
+      "48": "./images/logo_image.png",
+      "128": "./images/logo_image.png"
+    }
+  }
+}
